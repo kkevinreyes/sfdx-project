@@ -869,6 +869,7 @@
     </userPermissions>
     <userPermissions>
         <enabled>true</enabled>
+        <name>ViewUserPII</name>
         <name>WorkCalibrationUser</name>
     </userPermissions>
 </Profile>
